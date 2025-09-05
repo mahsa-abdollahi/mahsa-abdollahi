@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Linkedin](https://www.linkedin.com/in/mahsa-abdollahi-82742b123/)]
+
+
+### 🖥 Skills
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
