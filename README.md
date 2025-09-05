@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Linkedin](https://www.linkedin.com/in/mahsa-abdollahi-82742b123/)]
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahsa-abdollahi-82742b123/)
 
 
 ### 🖥 Skills
