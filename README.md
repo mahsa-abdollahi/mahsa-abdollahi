@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahsa-abdollahi-82742b123/)
-
+[![GoogleScholar](https://img.shields.io/badge/-GoogleScholar-blue?style=flat&logo=GoogleScholar&logoColor=white)](https://scholar.google.com/citations?user=eNmv5SAAAAAJ&hl=en)
 
 ### 🖥 Skills
 
